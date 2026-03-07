@@ -1,4 +1,6 @@
 // singleton
+// const JsUser2 = new Object()
+
 //obejct.create
 
 
@@ -6,6 +8,7 @@
 
 const mySym = Symbol("key1")
 
+// Non-Singleton Object
 const JsUser = {
     name: "Readwanur Rahman",
     "full name": "Readwanur Rahman Rumon",
