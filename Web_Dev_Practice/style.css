@@ -83,5 +83,19 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 2vh;
+  margin: 2vh;
+}
+.circle{
+  color: #000;
+  font-weight: bolder;
+  display: flex;
+  align-items: center;
+}
+.circle div{
+  padding: 0.4vh 0.3vw;
+  border-radius: 10vw;
+  background-color: #a3a3a3;
+  display: flex;
+  align-items: center;
+  margin: 0.1vw;
 }
